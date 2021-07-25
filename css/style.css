@@ -41,13 +41,13 @@ html {
   clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
 }
 
-.logo {
+.header__logo-box{
   position: absolute;
   top: 4rem;
   left: 4rem;
 }
 
-.logo__img {
+.header__logo {
   height: 3.5rem;
 }
 
